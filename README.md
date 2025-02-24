@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Portfolio Links ▶️ 
+
+## Professional Summary: 
+
+🔗 Cybersecurity Analyst
+
+🔖 Table of Contents: 
+
+---------------------------------------
 <!--
 **ZeroDayJay/ZeroDayJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
