@@ -11,7 +11,7 @@ To leverage my 3 years of experience in cybersecurity to contribute to a forward
 
 
 ## Skills (PLACEHOLDER)
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -49,3 +49,7 @@ To leverage my 3 years of experience in cybersecurity to contribute to a forward
 ## Projects (PLACEHOLDER)
 
 -->
+
+
+## CTI Reports (PLACEHOLDER)
+
